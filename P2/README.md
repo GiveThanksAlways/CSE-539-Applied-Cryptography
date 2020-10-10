@@ -4,6 +4,7 @@ In this project, we used the MD5 hashing function to practice salting passwords 
 
 The birthday pardox was pretty cool, especially since it involved some basic math (the pigeon hole principle) and some basic statistics.
 
-[pdf instructions](./p2_instructions.pdf)
+* [view main code](./P2/Program.cs)
+* [pdf instructions](../p2_instructions.pdf)
 
 
